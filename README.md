@@ -37,6 +37,7 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-02-23%20141829.png?raw=true)
 
 Bridge rectifier with filter:
 
