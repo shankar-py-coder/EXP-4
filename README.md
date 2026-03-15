@@ -46,7 +46,7 @@ TABULAR COLUMN:
 ![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%201st.jpeg?raw=true)
 
 TABULAR COLUMN:
-![image alt](
+![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%202nd.jpeg?raw=true)
 
 WAVEFORM:
 ![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true)
