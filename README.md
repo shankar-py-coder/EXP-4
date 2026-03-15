@@ -40,7 +40,7 @@ Half wave rectifier with filter:
 ![image alt]
 
 Bridge rectifier with filter:
-
+![image alt](
 TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
@@ -48,7 +48,7 @@ Rectifier with filter
 
 WAVEFORM:
 ![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true)
-![image alt](
+![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184002.png?raw=true)
 
 RESULT:
 
