@@ -40,11 +40,13 @@ Half wave rectifier with filter:
 ![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184321.png?raw=true)
 
 Bridge rectifier with filter:
+![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184358.png?raw=true)
+
+TABULAR COLUMN:
 ![image alt](
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+TABULAR COLUMN:
+![image alt](
 
 WAVEFORM:
 ![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true)
