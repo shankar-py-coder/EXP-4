@@ -40,17 +40,17 @@ Half wave rectifier with filter:
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184321.png?raw=true" height="400" width="700">
 
 Bridge rectifier with filter:
-<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184358.png?raw=true" height="400" width="700>
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184358.png?raw=true" height="400" width="700">
 
 TABULAR COLUMN:
-<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%201st.jpeg?raw=true" height="400" width="700>
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%201st.jpeg?raw=true" height="400" width="700">
 
 TABULAR COLUMN:
-![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%202nd.jpeg?raw=true)
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%202nd.jpeg?raw=true" height="400" width="700">
 
 WAVEFORM:
-![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true)
-![image alt](https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184002.png?raw=true)
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true" height="400" width="700">
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184002.png?raw=true" height="400" width="700">
 
 RESULT:
 
