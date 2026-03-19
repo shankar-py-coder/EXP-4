@@ -44,8 +44,8 @@ Bridge rectifier with filter:
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/1st%20exp%204.jpeg?raw=true" height="400" width="700">
 
 TABULAR COLUMN:
-<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%201st.jpeg?raw=true" height="400" width="700">
-
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%201st.jpeg?raw=true" height="400" width="800">
+<img src="https://github.com/shankar-py-coder/EXP-4/blob/main/2nd%20exp%204.jpeg?raw=true" height="400" width="800">
 TABULAR COLUMN:
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%202nd.jpeg?raw=true" height="400" width="700">
 
