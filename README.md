@@ -56,6 +56,7 @@ TABULAR COLUMN:
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/exp%204%202nd.jpeg?raw=true" height="400" width="700">
 
 WAVEFORM:
+
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20183920.png?raw=true" height="400" width="700">
 <img src="https://github.com/shankar-py-coder/EXP-4/blob/main/Screenshot%202026-03-15%20184002.png?raw=true" height="400" width="700">
 
